@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # Test sum.py with non-integer input.
-# Use pytest to run all tests.
 
 import subprocess
 

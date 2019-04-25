@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # Test sum.py with a list of integers.
-# Use pytest to run all tests.
 
 import subprocess
 
